@@ -7,10 +7,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="fantasy-dao" />
+        <module name="fantasy-web" />
+        <module name="fantasy-common" />
+        <module name="fantasy-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Fantasy" target="1.8" />
+      <module name="fantasy-common" target="1.8" />
+      <module name="fantasy-dao" target="1.8" />
+      <module name="fantasy-service" target="1.8" />
+      <module name="fantasy-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

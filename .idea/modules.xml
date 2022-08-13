@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Fantasy.iml" filepath="$PROJECT_DIR$/Fantasy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fantasy-common/fantasy-common.iml" filepath="$PROJECT_DIR$/fantasy-common/fantasy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fantasy-dao/fantasy-dao.iml" filepath="$PROJECT_DIR$/fantasy-dao/fantasy-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fantasy-service/fantasy-service.iml" filepath="$PROJECT_DIR$/fantasy-service/fantasy-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fantasy-web/fantasy-web.iml" filepath="$PROJECT_DIR$/fantasy-web/fantasy-web.iml" />
     </modules>
   </component>
 </project>
